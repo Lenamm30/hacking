@@ -15,9 +15,9 @@ This Python script simulates a humorous hacking sequence. It gives the illusion 
 ## How to Run
 
 **Clone the Repository** by running the following command in the terminal:
-   - '''git clone https://github.com/codingTempleDave/hacking.git'''
+   - ```git clone https://github.com/codingTempleDave/hacking.git```
 
 **Access the folder and run the file** by running the following commands in the terminal:
 
-   - '''cd hacking'''
-   - '''python hacking.py'''
+   - ```cd hacking```
+   - ```python hacking.py```
